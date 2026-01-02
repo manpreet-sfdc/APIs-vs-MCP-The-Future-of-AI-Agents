@@ -127,7 +127,4 @@ If you found this useful, please share the explainer on Twitter/X:
 ### 🔗 License
 MIT License — feel free to fork, remix, and credit responsibly.
 
----
 
-### 🧠 Author
-Created with **Video AI by InVideo** — turning ideas into stunning videos, fast.
