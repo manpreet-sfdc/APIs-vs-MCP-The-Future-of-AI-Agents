@@ -5,13 +5,6 @@
 
 ---
 
-## 📺 Watch the 60-Second Explainer
-🎥 [**APIs vs MCP: The Future of AI Agents Explained Simply**](https://ai.invideo.io/ai-video?video=apis-vs-mcp-the-future-of-ai-agents-explained-simply-fiwlkm)
-
-A short, animated breakdown of how MCP changes the way AI agents interact with systems — built using **Video AI by InVideo**.
-
----
-
 ## 🚀 Introduction
 
 Modern AI systems rely heavily on **APIs (Application Programming Interfaces)** to fetch and send data.  
